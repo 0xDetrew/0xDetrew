@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**0xDetrew/0xDetrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+<pre>
+<b>h3ll:~#</b> echo cya > /proc/sysrq-trigger</pre>
+</p>
 
-Here are some ideas to get you started:
+---
+#### About me  :^)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i'm detrew, i'm currently 17 years old and i'm into cybersec and Linux, i deleted my old github and i'm trying to start over again with new repositories and other future stuff.
+
+<p align="center"> 
+   <img src="https://tryhackme-badges.s3.amazonaws.com/Detrew.png" alt="TryHackMe">
+</p>
